@@ -6,7 +6,7 @@ const navbar = () => {
         <div className='wrapper'>
             <span className='navlogo'>mytinyurl</span>
             <ul>
-                <li><a href="#">Főoldal</a></li>
+                <li><a href="#">Generálás</a></li>
                 <li><a href="#">Rólunk</a></li>
                 <li><a href="#">Statisztikák</a></li>
                 <li><a href="#">Jogi nyilatkozat</a></li>
