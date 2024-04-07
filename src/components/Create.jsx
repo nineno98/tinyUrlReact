@@ -9,7 +9,7 @@ const Create = () => {
             <div id='input-form-container'>
                 <form action="" id='long-url-input-form'>
                     
-                    <input type="text" id='long-url-input-field'/>
+                    <input type="text" id='long-url-input-field' placeholder='www.example.com/...'/>
                     
                     <input type="submit" value='Rövidít' id='submit-create'/>
                 </form>
