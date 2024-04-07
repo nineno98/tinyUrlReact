@@ -48,19 +48,39 @@ nav a:hover{
 /* Create */
 
 #create{
-    background: darkslategrey;
+    background: rgb(64, 62, 62);
     
 }
 #create .wrapper{
-    padding-top: 20%;
-    min-height: 100vh;
     
-    align-items: center;
+    padding-top: 20vh;
+    min-height: 100vh;
+    text-align: center;
+    color: whitesmoke;
+    font-size: xx-large;
+    
+    
 }
 #input-form-container{
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
     gap: 20px;
+    border: 1px black solid;
+    padding: 1%;
+}
+#input-form-container>form{
+    display: flex;
+    
+    align-items: center;
+    gap: 20px;
+}
+#long-url-input-field{
+    width: 700px;
+    border: none;
+    height: 7vh;
+    border-radius: 8px;
+    
+
 }
