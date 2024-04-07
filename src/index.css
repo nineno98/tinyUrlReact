@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+}
+.wrapper{
+    max-width: 100%;
+    width: 95%;
+    margin: auto;
+}
+/* Navbar */
+nav{
+    width: 100%;
+    padding: 16px 0px;
+    position: absolute;
+    background: green;
+    z-index: 99;
+}
+nav a{
+    color: lightgray;
+    text-decoration: none;
+}
+nav .navlogo{
+    font-weight: 900;
+    font-size: 1.5rem;
+    padding-right: 20px;
+}
+nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+}
+nav>.wrapper{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    align-items: center;
+}
+nav a:hover{
+    color: white;
+}
+

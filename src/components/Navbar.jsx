@@ -10,6 +10,7 @@ const navbar = () => {
                 <li><a href="#">Rólunk</a></li>
                 <li><a href="#">Statisztikák</a></li>
                 <li><a href="#">Jogi nyilatkozat</a></li>
+                <li><a href="#">Támogatás</a></li>
             </ul>
         </div>
     </nav>
