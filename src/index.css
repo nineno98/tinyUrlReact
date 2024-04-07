@@ -8,8 +8,8 @@ body{
     min-height: 100vh;
 }
 .wrapper{
-    max-width: 100%;
-    width: 95%;
+    max-width: 85%;
+    width: 80%;
     margin: auto;
 }
 /* Navbar */
@@ -45,3 +45,22 @@ nav a:hover{
     color: white;
 }
 
+/* Create */
+
+#create{
+    background: darkslategrey;
+    
+}
+#create .wrapper{
+    padding-top: 20%;
+    min-height: 100vh;
+    
+    align-items: center;
+}
+#input-form-container{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
