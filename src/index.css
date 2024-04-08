@@ -125,4 +125,22 @@ nav a:hover{
     min-height: 100vh;
     width: 80%;
     
+    
+}
+#circle{
+    border: solid black 1px;
+    border-radius: 50%;
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    shape-outside: circle();
+
+    display: table-cell;
+    text-align: center;
+    justify-content: center;
+}
+#about-section .wrapper>.container{
+    text-align: left;
+    padding: 5%;
 }
