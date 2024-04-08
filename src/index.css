@@ -124,23 +124,23 @@ nav a:hover{
 #about-section .wrapper{
     min-height: 100vh;
     width: 80%;
+    color: var(--gray-light);
     
     
 }
-#circle{
-    border: solid black 1px;
-    border-radius: 50%;
-    float: left;
+.circle{
     width: 300px;
     height: 300px;
-    margin: 20px;
-    shape-outside: circle();
+    position: relative;
+    margin: 10vh auto 0;
 
-    display: table-cell;
-    text-align: center;
-    justify-content: center;
 }
-#about-section .wrapper>.container{
-    text-align: left;
-    padding: 5%;
+#white-circle-text{
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(ellipse at center, rgba(0, 128, 172, 1) 0%,
+    rgba(0, 128, 172, 1) 70%,
+    rgba(0, 128, 172, 0) 70.3%);
+    position: relative;
+    margin: 0;
 }
