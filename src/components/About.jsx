@@ -5,12 +5,9 @@ const About = () => {
     <section id='about-section'>
         <div className='wrapper'>
             <div className='circle'>
-                <blockquote id='white-circle-text'>
-
-                </blockquote>
-            </div>
-            <div className='container'>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias modi dicta a beatae, alias libero cum, officiis ad incidunt animi excepturi voluptatem explicabo necessitatibus architecto autem! Natus minima vero quaerat odio maxime repellendus neque quo assumenda tempora et reiciendis magnam repellat debitis eum animi, blanditiis rem rerum, sit hic aliquid impedit a voluptatibus dolorem sequi? Laboriosam blanditiis ullam nobis, eligendi cumque nemo atque velit sunt, repellat dolorum dolores praesentium aliquid quidem sed a, accusamus debitis expedita. Nostrum aspernatur facilis, illo animi deserunt repellendus cum impedit quas, necessitatibus voluptatem facere in perspiciatis. Dignissimos atque repudiandae aut libero, tenetur nesciunt animi velit blanditiis, sint facilis eum saepe id officia ut? Voluptatum, delectus id est, quod explicabo sit aperiam laudantium earum vero magnam itaque sequi dolorem! Rem asperiores quasi dolorem maxime sapiente ad itaque, est adipisci. Beatae quos recusandae facilis id consectetur fugiat quasi architecto iste quisquam modi exercitationem aperiam, consequatur magni. Libero.</p>
+                <div className='content'>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas id vero similique quibusdam totam velit culpa soluta adipisci cum laborum officia suscipit laudantium unde, error perferendis? Quaerat, veniam culpa. Perspiciatis, numquam quibusdam distinctio inventore asperiores vitae quasi nostrum voluptatibus accusantium quia dolorem ut! Placeat modi, eius possimus voluptas labore odio necessitatibus perspiciatis cupiditate ex consequatur distinctio commodi temporibus magnam vitae? Pariatur, accusantium! Reprehenderit adipisci aliquid maiores recusandae, sapiente veritatis quidem distinctio? Laboriosam minima quo blanditiis corrupti repellendus. Ab minus ex cumque qui omnis iure debitis nisi sequi praesentium iusto! Magni molestiae facilis nihil quod, necessitatibus itaque nostrum soluta!</p>
+                </div>
             </div>
             
             
